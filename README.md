@@ -2,7 +2,7 @@
 ![autotest_gif](images/raccoon-rave.gif)
 
 ### Обо мне:
-- Меня зовут Макс
+- Меня зовут Максим
 - Я QA Engineer
 - Работаю QA в 2021 года
 - Мои контакты:
