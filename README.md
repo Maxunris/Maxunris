@@ -20,8 +20,8 @@
 </p>
 
 ### 🚀 Мои проекты 
-#### <a target="_blank" href="https://github.com/Maxunris/start_project">Проект по  автоматизации тестирования web (UI) и API онлайн кинотеатра Start.ru</a>
-#### <a target="_blank" href="[https://github.com/Maxunris/start_project](https://github.com/Maxunris/litres_project)">Проект по  автоматизации тестирования UI на playwright и API онлайн библиотеки litres.ru</a>
+#### <a target="_blank" href="https://github.com/Maxunris/start_project">Проект по  автоматизации тестирования на Python. web (UI) на Selene и API онлайн кинотеатра Start.ru</a>
+#### <a target="_blank" href="https://github.com/Maxunris/litres_project">Проект по  автоматизации тестированияна Python. web (UI) на Playwright и API онлайн библиотеки litres.ru</a>
 ### 📊 Статистика Github
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxunris&theme=radical)
