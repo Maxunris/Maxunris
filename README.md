@@ -21,6 +21,8 @@
 
 ### 🚀 Мои проекты 
 #### <a target="_blank" href="https://github.com/Maxunris/start_project">Проект по  автоматизации тестирования на Python. web (UI) на Selene и API онлайн кинотеатра Start.ru</a>
+#### <a target="_blank" href="https://github.com/Maxunris/RestApi_Requests_Project">Тестовый проект для тренировки навыков автотестирования Rest Api на Python без Page Object petstore.swagger.io</a>
+Тестовый проект для тренировки навыков автотестирования Rest Api на Python без Page Object
 ### 📊 Статистика Github
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxunris&theme=radical)
